@@ -1,0 +1,9 @@
+:root{
+	--primary:rgb(63, 63, 248);
+}
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
